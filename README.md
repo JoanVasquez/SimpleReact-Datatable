@@ -10,4 +10,4 @@ Whether this project helped, please donate for a coffee.
 
 Remember to make **npm i or npm install** in the root of the app to install the **modules**
 
-[CoderGhost](https://www.coderghost.com/)
+[Visit CoderGhost](https://www.coderghost.com/)
