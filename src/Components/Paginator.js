@@ -31,7 +31,7 @@ const Paginator = props => (
           className={`page-link`}
           onClick={event => {
             event.preventDefault();
-            props.onPaginate(props.paginatorData.first_page);
+            props.onPaginate(props.paginatorData.previous_page);
           }}
         >
           <span aria-hidden="true">&laquo;</span>
